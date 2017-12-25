@@ -8,6 +8,13 @@
 # dependencies
 /node_modules
 
+#Editor files
+*.pyc
+npm-debug.log
+node_modules
+typings
+
+
 # IDEs and editors
 /.idea
 .project
